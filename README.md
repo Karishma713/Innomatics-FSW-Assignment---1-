@@ -6,6 +6,7 @@ This project was part of my internship at **Innomatics Research Labs**. For my f
 
 ![Project Screenshot](Smart Budgeting Tool/Results/Html_Result.png)
 
+
 ## 🛠️ **Technologies Used**
 - **HTML**: Used to create the structure and layout of the page.
 
