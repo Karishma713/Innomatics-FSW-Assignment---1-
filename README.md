@@ -4,7 +4,7 @@
 ## 📌 **Overview**
 This project was part of my internship at **Innomatics Research Labs**. For my first assignment, I created a simple **Smart Budgeting and Finance Tracker** using **HTML**. This web tool helps users track their expenses and income by adding transactions and viewing a basic summary.
 
-![Project Screenshot](Smart Budgeting Tool/Results/Html_Result.png)
+
 
 
 ## 🛠️ **Technologies Used**
@@ -21,7 +21,7 @@ The goal of this project was to understand how to structure a basic webpage usin
 ## 📂 **Project Structure**
 ```bash
 /
-├── html_code.html        # Main HTML file for the project
-├── Results
-│   └── Html_Result.png # (Optional) Project screenshot image
+├── index.html        # Main HTML file for the project
+├── images
+│   └── screenshot.png # (Optional) Project screenshot image
 ├── README.md         # Project documentation
