@@ -17,11 +17,3 @@ This project was part of my internship at **Innomatics Research Labs**. For my f
 
 ## 💡 **Project Goal**
 The goal of this project was to understand how to structure a basic webpage using HTML, create user input forms, and organize content in a meaningful way for tracking personal finances.
-
-## 📂 **Project Structure**
-```bash
-/
-├── index.html        # Main HTML file for the project
-├── images
-│   └── screenshot.png # (Optional) Project screenshot image
-├── README.md         # Project documentation
