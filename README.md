@@ -4,7 +4,7 @@
 ## 📌 **Overview**
 This project was part of my internship at **Innomatics Research Labs**. For my first assignment, I created a simple **Smart Budgeting and Finance Tracker** using **HTML**. This web tool helps users track their expenses and income by adding transactions and viewing a basic summary.
 
-![image](Results/Html_Result.png)
+![image](Assignment-1/Results/Html_Result.png)
 
 
 
